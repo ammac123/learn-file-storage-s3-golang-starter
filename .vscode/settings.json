@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:s3_storage}/tubely.db",
+            "name": "tubely_db"
+        }
+    ]
+}
